@@ -2,12 +2,9 @@ import sys
 import itertools
 import subprocess # Para a função de instalação
 
-# --- Função de Instalação (Bônus) ---
+# --- Função de Instalação das bibliotecas nescessarias
 def instalar_bibliotecas():
-    """
-    Tenta instalar as bibliotecas necessárias (shapely, networkx, matplotlib)
-    usando o pip.
-    """
+    
     print("Verificando e instalando bibliotecas necessárias...")
     try:
         # sys.executable é o caminho para o interpretador Python atual
@@ -209,4 +206,5 @@ if __name__ == "__main__":
     except FileNotFoundError:
         print(f"Erro: Arquivo '{arquivo_mapa}' não encontrado.")
     except Exception as e:
+
         print(f"Ocorreu um erro inesperado: {e}")
