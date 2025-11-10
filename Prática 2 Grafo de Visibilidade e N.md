@@ -44,8 +44,6 @@ Execução do Projeto
 
 "*python main.py mapa.txt*"
 
-***-imagem 1***
-
 
 
 **Resultado:**
@@ -62,10 +60,6 @@ Após a execução:
 
 &nbsp;	2- Uma imagem (roadmap\_path.png) será salva na raiz do projeto, mostrando o Grafo de Visibilidade, a Árvore Geradora Mínima (MST) e o caminho final encontrado.
 
-
-***-imagem 2
--imagem 3
--imagem 4***
 
 
 
@@ -136,5 +130,6 @@ Objetivo: Encontrar o caminho mais curto entre o vértice inicial (***qstart***)
 **Custo do Caminho** : O custo final é a soma dos pesos das arestas (distâncias euclidianas) ao longo do caminho mais curto encontrado.
 
 ***-imagem 5***
+
 
 
