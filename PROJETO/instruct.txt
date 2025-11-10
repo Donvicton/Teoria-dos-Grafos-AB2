@@ -1,1 +1,6 @@
+Abra seu terminal ou prompt de comando.
 
+Navegue até a pasta onde você salvou os arquivos.
+
+Execute o script digitando:
+python main.py mapa.txt
