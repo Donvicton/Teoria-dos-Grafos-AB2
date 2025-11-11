@@ -44,7 +44,7 @@ Execução do Projeto
 
 "*python main.py mapa.txt*"
 
-![Print da Execucao](PROJETO/imagem2.png)
+![Print da Execucao](PROJETO/imagem1.png)
 
 
 
@@ -62,9 +62,9 @@ Após a execução:
 
 &nbsp;	2- Uma imagem (roadmap\_path.png) será salva na raiz do projeto, mostrando o Grafo de Visibilidade, a Árvore Geradora Mínima (MST) e o caminho final encontrado.
 
-![Print da Execucao](images/imagem2.png)
-![Print da Execucao](images/imagem3.png)
-![Print da Execucao](images/imagem4.png)
+![Print da Execucao](PROJETO/imagem2.png)
+![Print da Execucao](PROJETO/imagem3.png)
+![Print da Execucao](PROJETO/imagem4.png)
 
 
 
@@ -85,7 +85,7 @@ Após a execução:
 &nbsp;	**Objetivo**: Gerar uma árvore (MST) que conecta todos os vértices do grafo de visibilidade com o menor custo total possível. Essa árvore minimiza o gasto para percorrer todo o roadmap do ambiente.
 
 
-![ambiente(mapa)](images/ambiente.png)
+![ambiente(mapa)](PROJETO/ambiente.png)
 
 
 Conceito do Pseudocódigo (AGM - Kruskal) - Implementação no Código Python (main.py)
@@ -134,7 +134,8 @@ Objetivo: Encontrar o caminho mais curto entre o vértice inicial (***qstart***)
 
 **Custo do Caminho** : O custo final é a soma dos pesos das arestas (distâncias euclidianas) ao longo do caminho mais curto encontrado.
 
-![Resultado](images/resultado.png)
+![Resultado](PROJETO/resultado.png)
+
 
 
 
