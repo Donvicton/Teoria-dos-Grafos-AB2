@@ -60,7 +60,7 @@ Após a execução:
 
 
 
-&nbsp;	2- Uma imagem (roadmap\_path.png) será salva na raiz do projeto, mostrando o Grafo de Visibilidade, a Árvore Geradora Mínima (MST) e o caminho final encontrado.
+&nbsp;	2- Uma imagem (resultado.png) será salva na raiz do projeto, mostrando o Grafo de Visibilidade, a Árvore Geradora Mínima (MST) e o caminho final encontrado.
 
 ![Print da Execucao](PROJETO/imagem2.png)
 ![Print da Execucao](PROJETO/imagem3.png)
@@ -135,6 +135,7 @@ Objetivo: Encontrar o caminho mais curto entre o vértice inicial (***qstart***)
 **Custo do Caminho** : O custo final é a soma dos pesos das arestas (distâncias euclidianas) ao longo do caminho mais curto encontrado.
 
 ![Resultado](PROJETO/resultado.png)
+
 
 
 
