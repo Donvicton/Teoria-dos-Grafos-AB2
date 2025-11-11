@@ -44,7 +44,7 @@ Execução do Projeto
 
 "*python main.py mapa.txt*"
 
-PROJETO/imagem1.png
+![Print da Execucao](PROJETO/imagem2.png)
 
 
 
@@ -135,6 +135,7 @@ Objetivo: Encontrar o caminho mais curto entre o vértice inicial (***qstart***)
 **Custo do Caminho** : O custo final é a soma dos pesos das arestas (distâncias euclidianas) ao longo do caminho mais curto encontrado.
 
 ![Resultado](images/resultado.png)
+
 
 
 
