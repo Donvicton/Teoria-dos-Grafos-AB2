@@ -129,7 +129,8 @@ Objetivo: Encontrar o caminho mais curto entre o vértice inicial (***qstart***)
 
 **Custo do Caminho** : O custo final é a soma dos pesos das arestas (distâncias euclidianas) ao longo do caminho mais curto encontrado.
 
-***-imagem 5***
+
+
 
 
 
